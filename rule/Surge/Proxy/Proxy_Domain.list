@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-08-06 02:11:33
+# UPDATED: 2024-10-09 02:12:49
 # DOMAIN: 12
 # DOMAIN-KEYWORD: 28
-# DOMAIN-SUFFIX: 5914
+# DOMAIN-SUFFIX: 5921
 # IP-CIDR: 96
 # IP-CIDR6: 4
 # USER-AGENT: 9
-# TOTAL: 6063
+# TOTAL: 6070
 .000webhost.com
 .030buy.com
 .0rz.tw
@@ -1070,6 +1070,7 @@
 .comodoca.com
 .comparitech.com
 .compileheart.com
+.compose-spec.io
 .compress.to
 .compython.net
 .conoha.jp
@@ -1307,6 +1308,7 @@
 .dnssec.net
 .docker.com
 .docker.io
+.dockerhub.com
 .doctorvoice.org
 .documentingreality.com
 .dogfartnetwork.com
@@ -2614,6 +2616,7 @@
 .iuksky.com
 .ivacy.com
 .iverycd.com
+.ivonblog.com
 .ivpn.net
 .iwara.tv
 .ixquick.com
@@ -2630,6 +2633,7 @@
 .jamaat.org
 .jamestown.org
 .jamyangnorbu.com
+.jan.ai
 .jandyx.com
 .janwongphoto.com
 .japan-whores.com
@@ -3129,6 +3133,7 @@
 .meshrep.com
 .mesotw.com
 .messenger.com
+.meta.com
 .metacafe.com
 .metafilter.com
 .metart.com
@@ -4579,6 +4584,7 @@
 .stoptibetcrisis.net
 .storagenewsletter.com
 .storify.com
+.storj.io
 .storm.mg
 .stormmediagroup.com
 .stoweboyd.com
@@ -4986,6 +4992,7 @@
 .torrentproject.se
 .torrenty.org
 .torrentz.eu
+.tortoisesvn.net
 .torvpn.com
 .totalvpn.com
 .toutiaoabc.com
@@ -5257,7 +5264,7 @@
 .us.to
 .usacn.com
 .usaip.eu
-.usc.edu
+.uscardforum.com
 .uscnpm.org
 .usembassy.gov
 .userapi.nytlog.com
